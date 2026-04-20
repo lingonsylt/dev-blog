@@ -1,0 +1,25 @@
+---
+title: Mycket snack lite verkstad
+date: "2026-04-20"
+effort: "Ytterst låg"
+meme: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp4M25xZ2p3ejRpMGRwa3ZmNzlhdGQ4MWVxbXpwbnZuMGs4NzJ6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rTxEZBMKPAVoHGCoY/giphy.gif"
+---
+I already had a plan in mind
+
+Having done that tutorial, plus some addational research because there were breaking changes with fetching data since the tutorial has been published, I was presented with a nice looking cool website.
+
+## Changes
+The following changes and implementations have been made in that version of the project:
+* Several fetch functions to the [themoviedb API](https://developers.themoviedb.org/3) to get the popular and searched movies
+* Styling and structuring the page using components
+*
+
+To get a better view on the changes proposed in that first version it is easier to watch the tutorial, it gives you a much better insight into what I started with.
+
+## Features
+✅ Popular movies
+✅ Search function
+
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
